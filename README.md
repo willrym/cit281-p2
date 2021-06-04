@@ -4,3 +4,5 @@
 3. Use git via VSCode
      -Create and use a .gitignore file
      -Diff split screen
+
+![Sal](https://static.wikia.nocookie.net/impracticaljokers/images/d/d2/Sal.png/revision/latest/scale-to-width-down/361?cb=20190604013345)
